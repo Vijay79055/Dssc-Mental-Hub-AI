@@ -35,14 +35,23 @@ Query - Zod Validation - Recharts - Lucide Icons
 
 ------------------------------------------------------------------------
 
-PROJECT STRUCTURE
+📁 Project Structure
 
-dssc-mental-hub │ ├── public/ Static assets ├── src/ │ ├── components/
-Reusable UI components │ ├── pages/ Application pages │ ├── hooks/
-Custom React hooks │ ├── lib/ Utility functions │ ├── App.tsx Main App
-component │ └── main.tsx Application entry point │ ├── supabase/
-Supabase configuration ├── index.html HTML template ├── package.json
-Project dependencies └── vite.config.ts Vite configuration
+dssc-mental-hub
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── lib/
+│   ├── App.tsx
+│   └── main.tsx
+│
+├── supabase/
+├── index.html
+├── package.json
+└── vite.config.ts
 
 ------------------------------------------------------------------------
 
