@@ -110,6 +110,9 @@ CONTRIBUTING
 
 Contributions are welcome!
 
-Steps: 1. Fork the repository 2. Create a new branch 3. Commit your
-changes 4. Push the branch 5. Open a Pull Request
+Steps: 1. Fork the repository 
+Steps: 2. Create a new branch 
+Steps: 3. Commit your changes 
+Steps: 4. Push the branch 
+Steps: 5. Open a Pull Request
 
